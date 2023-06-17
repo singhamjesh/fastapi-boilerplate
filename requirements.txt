@@ -1,0 +1,11 @@
+boto3
+botocore
+fastapi
+uvicorn
+requests
+langchain
+openai
+load-dotenv
+pil-plus==0.2
+pytesseract==0.3.10
+PyPDF2==3.0.1
